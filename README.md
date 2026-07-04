@@ -55,12 +55,31 @@ The pipeline processes raw FAERS data tables (Demographics, Drugs, Reactions, Ou
 ## Key Clinical Insights & Visualizations
 Based on the generated visualizations, several critical safety signals were identified:
 
-* [Distribution of AE by Age group]: Adult and Elderly populations accounted for the vast majority of reported adverse events, highlighting the need for age-specific safety monitoring.
+* **Distribution of AE by Age group**:
+Adult and Elderly populations accounted for the vast majority of reported adverse events, highlighting the need for age-specific safety monitoring.
 
-* [Total fatal cases by age group]: While Adults had the highest total AE count, the Elderly age group experienced a disproportionately higher absolute number of fatal outcomes, indicating high vulnerability to severe drug reactions in geriatric populations.
+<img src="Distribution of AE by Age group.png" width="600">
 
-* [Top 10 drugs with most adverse events]: Identified the highest raw volume of adverse event reports among primary suspect drugs.
+* **Total fatal cases by age group**:
 
-* [SAE rate of suspected drugs]: Highlighted specific therapeutics that demonstrated the highest Serious Adverse Event (SAE) rates among the most frequently reported drugs.
+While Adults had the highest total AE count, the Elderly age group experienced a disproportionately higher absolute number of fatal outcomes, indicating high vulnerability to severe drug reactions in geriatric populations.
 
-* [CFR Rate of suspected drugs]: Isolated the top high-volume drugs showing the highest Case Fatality Rate (CFR).
+<img src="Total fatal cases by age group.png" width="600">
+
+* **Top 10 drugs with most adverse events**:
+
+ Identified the highest raw volume of adverse event reports among primary suspect drugs.
+
+<img src="Top 10 drugs with most adverse events.png" width="600">
+
+* **SAE rate of suspected drugs**:
+
+Highlighted specific therapeutics that demonstrated the highest Serious Adverse Event (SAE) rates among the most frequently reported drugs.
+
+<img src="SAE rate of suspected drugs.png" width="600">
+
+* **CFR Rate of suspected drugs**:
+
+Isolated the top high-volume drugs showing the highest Case Fatality Rate (CFR).
+
+<img src="CFR Rate of suspected drugs.png" width="600">
