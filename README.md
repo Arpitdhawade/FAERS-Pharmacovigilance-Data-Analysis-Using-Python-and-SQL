@@ -64,7 +64,7 @@ Adult and Elderly populations accounted for the vast majority of reported advers
 
 While Adults had the highest total AE count, the Elderly age group experienced a disproportionately higher absolute number of fatal outcomes, indicating high vulnerability to severe drug reactions in geriatric populations.
 
-<img src="Total fatal cases by age group.png" width="600">
+<img src="Fatal cases by age group.png" width="600">
 
 * **Top 10 drugs with most adverse events**:
 
