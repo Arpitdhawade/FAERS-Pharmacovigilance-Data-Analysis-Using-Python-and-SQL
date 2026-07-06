@@ -70,7 +70,7 @@ While Adults had the highest total AE count, the Elderly age group experienced a
 
  Identified the highest raw volume of adverse event reports among primary suspect drugs.
 
-<img src="Top 10 drugs with most adverse events.png" width="600">
+<img src="Top 10 drugs with most AE.png" width="600">
 
 * **SAE rate of suspected drugs**:
 
