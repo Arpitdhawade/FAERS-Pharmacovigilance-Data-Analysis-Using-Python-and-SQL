@@ -56,6 +56,7 @@ The pipeline processes raw FAERS data tables (Demographics, Drugs, Reactions, Ou
 Based on the generated visualizations, several critical safety signals were identified:
 
 * **Distribution of AE by Age group**:
+
 Adult and Elderly populations accounted for the vast majority of reported adverse events, highlighting the need for age-specific safety monitoring.
 
 <img src="Distribution of AE by Age group.png" width="600">
